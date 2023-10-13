@@ -17,6 +17,7 @@
 
 - jdk
 - gradle
+- appium
 
 ### How to run this project:
 - Clone this project
@@ -34,6 +35,7 @@
   "appium:app": "D:\\apk\\emi_calculator.apk"
 }
 ```
+> ```"appium:app"``` apk location in user pc & ```"appium:platformVersion"``` user emulator android version.
 - Open ```build.gradle``` file as a project with Intellij IDEA
 - Open ```terminal```
 - Give this following command: ```gradle clean test```
