@@ -45,10 +45,3 @@
 
 ![screencapture-192-168-0-152-11085-index-html-2023-10-13-11_21_18](https://github.com/Shaishab10/Emi_Calculator_App_Automation_With_Selenium_Appium/assets/54171379/7107ca77-64cb-4560-9526-4e0e7e668050)
 ![screencapture-192-168-0-152-11085-index-html-2023-10-13-11_21_44](https://github.com/Shaishab10/Emi_Calculator_App_Automation_With_Selenium_Appium/assets/54171379/c9657709-629d-4804-8ea4-457369055db8)
-
-### Output Video
-
-https://github.com/Shaishab10/Emi_Calculator_App_Automation_With_Selenium_Appium/assets/54171379/25dbd263-51e6-48f0-ad32-9299f64431d3
-
-#### for Better Quality please visit below link:
-https://drive.google.com/file/d/1EFllEsHU6mO9csPKV8V5W_bl44D2zca4/view?usp=sharing
